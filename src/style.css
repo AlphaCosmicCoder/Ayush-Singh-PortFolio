@@ -1237,11 +1237,6 @@ h1,
   --tw-gradient-to: rgb(0 173 181 / 0);
 }
 
-.object-contain {
-  -o-object-fit: contain;
-     object-fit: contain;
-}
-
 .object-cover {
   -o-object-fit: cover;
      object-fit: cover;
@@ -1349,11 +1344,6 @@ h1,
   line-height: 2.5rem;
 }
 
-.text-lg {
-  font-size: 1.125rem;
-  line-height: 1.75rem;
-}
-
 .font-semibold {
   font-weight: 600;
 }
@@ -1388,10 +1378,6 @@ h1,
 
 .opacity-90 {
   opacity: 0.9;
-}
-
-.opacity-5 {
-  opacity: 0.05;
 }
 
 .opacity-100 {
@@ -1432,10 +1418,6 @@ h1,
 .hover\:brightness-110:hover {
   --tw-brightness: brightness(1.1);
   filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow);
-}
-
-.dark .dark\:rounded {
-  border-radius: 0.25rem;
 }
 
 .dark .dark\:rounded-full {
