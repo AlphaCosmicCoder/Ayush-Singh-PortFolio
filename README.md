@@ -1,3 +1,3 @@
 # Ayush-Singh-PortFolio
 
-# <a href="https://099ayuh.github.io/Ayush-Singh-PortFolio/">Live Preview</a>
+# <a href="https://me-ayush-singh-rajput.netlify.app/">Live Preview</a>
