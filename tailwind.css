@@ -82,7 +82,7 @@
 
     .container-hero-image{
         @apply
-            bg-primary
+            /* bg-primary */
             rounded-md md:rounded-none
             h-60 md:h-full
             overflow-hidden
